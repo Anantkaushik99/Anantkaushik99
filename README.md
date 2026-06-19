@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi 👋, I'm Anant Kaushik
 
-<!--
-**Anantkaushik99/Anantkaushik99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
+☁️ AWS & Cloud Computing Enthusiast
+💻 Full Stack Developer
+🚀 Passionate about Java, DevOps, and Web Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **DevOps and Cloud Technologies**
+- 💡 Interested in **AWS, Full Stack Development, and Automation**
+- 💻 Programming Languages: **Java, JavaScript**
+- 📫 Reach me at: your-email@example.com
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- JavaScript
+- HTML
+- CSS
+
+### Frameworks & Libraries
+- React.js
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Cloud & DevOps
+- AWS
+- Git
+- GitHub
+
+---
+
+## 🚀 Projects
+
+### RentalHub
+A property rental platform with user authentication and property listings.
+
+### Serverless Contact Form Website
+Built using:
+- AWS S3
+- API Gateway
+- Lambda
+- DynamoDB
+
+Features:
+- REST API Integration
+- Real-time Data Storage
+- CORS Enabled Communication
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/Anantkaushik99
+- LinkedIn: https://www.linkedin.com/in/anant-dev-singh-014286291/
+
+---
+
+⭐ Always eager to learn and build innovative solutions.
