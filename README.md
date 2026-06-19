@@ -12,11 +12,9 @@
 - 🌱 Currently learning **DevOps and Cloud Technologies**
 - 💡 Interested in **AWS, Full Stack Development, and Automation**
 - 💻 Programming Languages: **Java, JavaScript**
-- 📫 Reach me at: your-email@example.com
+  
 
----
-
-## 🛠️ Tech Stack
+--
 
 ### Languages
 - Java
